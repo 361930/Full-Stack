@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Full-Stack E-commerce Store
 
 An end-to-end e-commerce platform designed to provide users with a seamless online shopping experience. This project encompasses both the front-end and back-end components, ensuring a fully functional application.

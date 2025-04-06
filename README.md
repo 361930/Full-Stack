@@ -161,23 +161,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Special thanks to all contributors and the open-source community for their invaluable resources and support.
 ```
-
-**Instructions to Add the README to Your Repository:**
-
-1. **Create the README.md File:**
-
-   In the root directory of your project, create a new file named `README.md`.
-
-2. **Add the Content:**
-
-   Copy the above content and paste it into the `README.md` file.
-
-3. **Commit and Push:**
-
-   ```bash
-   git add README.md
-   git commit -m "Add comprehensive README"
-   git push origin main
-   ```
-
-   Replace `main` with the name of your default branch if it's different.

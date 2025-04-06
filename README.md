@@ -160,4 +160,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 Special thanks to all contributors and the open-source community for their invaluable resources and support.
-```
